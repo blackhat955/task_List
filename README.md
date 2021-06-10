@@ -1,15 +1,15 @@
 # todo_list
 
 ### About:
-- Flash chat is intended to provide a better user experience during chatting with other people. This is something by which I am trying to learn how the messaging app like WhatsApp, Twitter, Snapchat is working and try to make my app something near to it. For this, I will be actively searching   for collaborators to enhance the end-user  experience
+- Todo list is someshort of like google task which could help the user to save  their task for future and they have functinallity to mark is chech on uncheck basis of weather is done or not 
 
 <br><br>
 
 
-![s1](https://github.com/blackhat955/Flash-Chat/blob/main/images/1.jpeg) <br><br>
-![s2](https://github.com/blackhat955/Flash-Chat/blob/main/images/2.jpeg)  <br><br>
-![s3](https://github.com/blackhat955/Flash-Chat/blob/main/images/3.jpeg)  <br><br>
-![s4](https://github.com/blackhat955/Flash-Chat/blob/main/images/4.jpeg)  <br><br>
+![s1](https://github.com/blackhat955/task_List/blob/main/image/3.jpeg) <br><br>
+![s2](https://github.com/blackhat955/task_List/blob/main/image/4.jpeg)  <br><br>
+![s3](https://github.com/blackhat955/task_List/blob/main/image/2.jpeg)  <br><br>
+![s4](https://github.com/blackhat955/task_List/blob/main/image/1.jpeg)  <br><br>
 
 - For Makeing it  More User Friendly I am still working on it .<br><br>
 ## Contributer's is Always welcome 
